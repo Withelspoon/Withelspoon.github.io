@@ -1,0 +1,15 @@
+franielwedding2018.co.uk.
+NS
+ns-1495.awsdns-58.org. 
+ns-1703.awsdns-20.co.uk. 
+ns-374.awsdns-46.com. 
+ns-929.awsdns-52.net.
+-
+-
+172800
+franielwedding2018.co.uk.
+SOA
+ns-1495.awsdns-58.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+-
+-
+900
