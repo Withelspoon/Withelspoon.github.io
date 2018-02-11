@@ -1334,6 +1334,20 @@ input[type="text"] {
   outline: none !important;
 }
 
+.btn.btn-grey {
+  position: center;
+  border-radius: 2px;
+  border: 0px;
+  color: black;
+  text-shadow: none;
+  background-color: #ffdae0;
+}
+
+.btn.btn-grey:hover {
+  color: black;
+  background-color: #EEE8AA;
+}
+
 .btn-primary {
   background: #66D37E;
   color: #fff;
