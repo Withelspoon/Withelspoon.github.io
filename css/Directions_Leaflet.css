@@ -22,15 +22,15 @@ body {
 
 .colorful {
 	background:
-		-webkit-linear-gradient(45deg, hsla(47, 21%, 73%, 1) 0%, hsla(47, 21%, 73%, 0) 70%),
-		-webkit-linear-gradient(315deg, hsla(289, 89%, 77%, 1) 10%, hsla(289, 89%, 77%, 0) 80%),
-		-webkit-linear-gradient(225deg, hsla(251, 29%, 65%, 1) 10%, hsla(251, 29%, 65%, 0) 80%),
-		-webkit-linear-gradient(135deg, hsla(0, 77%, 65%, 1) 100%, hsla(0, 77%, 65%, 0) 70%);
+		-webkit-linear-gradient(45deg, hsla(341, 49%, 45%, 1) 0%, hsla(341, 49%, 45%, 0) 70%),
+		-webkit-linear-gradient(315deg, hsla(355, 33%, 77%, 1) 10%, hsla(355, 33%, 77%, 0) 80%),
+		-webkit-linear-gradient(225deg, hsla(323, 57%, 62%, 1) 10%, hsla(323, 57%, 62%, 0) 80%),
+		-webkit-linear-gradient(135deg, hsla(30, 91%, 72%, 1) 100%, hsla(30, 91%, 72%, 0) 70%);
 	background:
-		linear-gradient(45deg, hsla(47, 21%, 73%, 1) 0%, hsla(47, 21%, 73%, 0) 70%),
-		linear-gradient(135deg, hsla(289, 89%, 77%, 1) 10%, hsla(289, 89%, 77%, 0) 80%),
-		linear-gradient(225deg, hsla(251, 29%, 65%, 1) 10%, hsla(251, 29%, 65%, 0) 80%),
-		linear-gradient(315deg, hsla(0, 77%, 65%, 1) 100%, hsla(0, 77%, 65%, 0) 70%);
+		linear-gradient(45deg, hsla(341, 49%, 45%, 1) 0%, hsla(341, 49%, 45%, 0) 70%),
+		linear-gradient(135deg, hsla(355, 33%, 77%, 1) 10%, hsla(355, 33%, 77%, 0) 80%),
+		linear-gradient(225deg, hsla(323, 57%, 62%, 1) 10%, hsla(323, 57%, 62%, 0) 80%),
+		linear-gradient(315deg, hsla(30, 91%, 72%, 1) 100%, hsla(30, 91%, 72%, 0) 70%);
 	}
 
 #mapid { height: 180px; }
