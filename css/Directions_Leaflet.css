@@ -151,6 +151,9 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #66D37E;
 }
 
+.container-central {
+   text-align: center;}
+
 .container-wrap {
   max-width: 1060px;
   margin: 0 auto;
