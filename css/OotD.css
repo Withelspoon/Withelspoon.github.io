@@ -20,6 +20,13 @@ body {
   background: #e8e8e8;
 }
 
+img
+{
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
 .colorful {
 	background:
 		-webkit-linear-gradient(45deg, hsla(341, 49%, 45%, 1) 0%, hsla(341, 49%, 45%, 0) 70%),
